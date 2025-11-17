@@ -77,5 +77,4 @@ Training a YOLO model takes a very long time and requires a fairly large dataset
 1. Joseph Redmon, Santosh Divvala, Ross Girshick, Ali Farhadi - You Only Look Once: Unified, Real-Time Object Detection (2015)
 2. Joseph Redmon, Ali Farhadi - YOLO9000: Better, Faster, Stronger (2016)
 3. Allan Zelener - YAD2K: Yet Another Darknet 2 Keras
-4. The official YOLO website (https://pjreddie.com/darknet/yolo/)# Object-detection-using-yolov5
-using SoA yolov5 for simple object detection
+4. The official YOLO website (https://pjreddie.com/darknet/yolo/)
